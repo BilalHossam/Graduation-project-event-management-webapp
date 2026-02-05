@@ -8,3 +8,4 @@ In order to set up the folder:
 
 Notes:
 Check the project documentation to learn more about it.
+https://drive.google.com/file/d/19ZKG-r3IKqlbfCL9JHFq-RUrcn5tjR1g/view?usp=drive_link (For the wordpress version).
